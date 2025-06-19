@@ -102,5 +102,3 @@ This project is for educational and personal use. Please ensure your scraping ac
 ## 🙌 Acknowledgements
 
 Special thanks to **Tech with Tim** for the original scraping inspiration.
-
-```
