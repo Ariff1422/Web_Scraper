@@ -1,4 +1,3 @@
-````markdown
 # 🕸️ AI Web Scraper
 
 An AI-powered web scraper that intelligently extracts and parses specific information from websites using the power of generative AI. It combines traditional scraping tools with LLMs to flexibly structure unstructured web content.
@@ -41,7 +40,7 @@ Inspired by [Tech With Tim's](https://www.youtube.com/@TechWithTim) tutorials on
 
 ```bash
 git clone https://github.com/Ariff1422/Web_Scraper.git
-cd Web_Scraper
+cd Web_Scraper/v1
 ````
 
 ### 2. Set Up a Virtual Environment
@@ -90,11 +89,8 @@ GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
 ### 6. Run the Streamlit App
 
 ```bash
-streamlit run your_main_app_file.py
+streamlit run main.py
 ```
-
-Replace `your_main_app_file.py` with the actual filename, e.g., `app.py`.
-
 ---
 
 ## 📄 License
@@ -107,7 +103,4 @@ This project is for educational and personal use. Please ensure your scraping ac
 
 Special thanks to **Tech with Tim** for the original scraping inspiration.
 
-```
-
-Let me know if you want to add a [demo video link](f), [project screenshot](f), or [usage example](f).
 ```
